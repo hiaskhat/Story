@@ -1,1 +1,1 @@
-Ok. Today we are learning Version Control Git
+Ok. Today we are learning Branching and Merging
